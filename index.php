@@ -65,7 +65,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Room No17</title>
+    <title>HomeToGo</title>
     
 
     <!-- Bootstrap core CSS -->
@@ -239,22 +239,22 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <span class="copyright">Copyright &copy; Room No 17 Boys.pvt Ltd Website 2022</span>
+            <span class="copyright">Copyright &copy; Ashish Gaikwad</span>
           </div>
           <div class="col-md-4">
             <ul class="list-inline social-buttons">
               <li class="list-inline-item">
-                <a href="https://twitter.com/Rushike72938470">
+                <a href="https://twitter.com/Gaikwad_Ashish1">
                   <i class="fa fa-twitter"></i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="https://www.facebook.com/rushikesh.bhalerao.754918">
+                <a href="https://www.facebook.com/ashish.gaikwad.96199344/">
                   <i class="fa fa-facebook"></i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="https://www.linkedin.com/in/rushikesh-bhalerao-4313a01b1">
+                <a href="https://www.linkedin.com/in/ashishggaikwad/">
                   <i class="fa fa-linkedin"></i>
                 </a>
               </li>

@@ -1,8 +1,8 @@
-# home-rental-webapp
-# This Web application helps user to register individaul home or apartment to assist you in finding the perfect rental home or property. Also you can find your next rental from search view in your targeted area.
+# HomeToGo
+# This Web application helps user to register Room's to assist you in finding the perfect rental home or room. Also you can find your next rental from search view in your targeted area.
 # Built with Core PHP, PHP PDO, Bootstrap4, MYSQL.
 
-installation of house rental and property listing project
+installation of house rental and property listing project(HomeToGo)
 
 
 Softwares need 
@@ -13,7 +13,7 @@ Softwares need
 
 3. start xamp/wamp server.
 
-4. open browser and type - localhost/home-rental
+4. open browser and type - localhost/HomeToGo
 
 
 show error--

@@ -69,8 +69,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `fullname`, `mobile`, `username`, `email`, `password`, `created_at`, `updated_at`, `role`, `status`) VALUES
-(1, 'Group-7', '9999999999', 'admin', 'admin@admin.com', '21232f297a57a5a743894a0e4a801fc3', NULL, NULL, 'admin', 1),
-(2, 'Ashish Gaikwad', '9090909090', 'ashu', 'ashu@gmail.com', '89cd279e1dbab7a8518361804a388062', NULL, NULL, 'user', 1);
+(1, 'Ashish Gaikwad', '9999999999', 'admin', 'admin@admin.com', '21232f297a57a5a743894a0e4a801fc3', NULL, NULL, 'admin', 1),
+(2, 'Bablu Patil', '9090909090', 'bablu', 'bablu@gmail.com', '89cd279e1dbab7a8518361804a388062', NULL, NULL, 'user', 1);
 --
 --
 -- Indexes for table `room_rental_registrations`

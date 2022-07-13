@@ -66,7 +66,8 @@
 					echo '<div style="color:#FF0000;text-align:center;font-size:17px;">'.$errMsg.'</div>';
 				}
 			?>
-			<h2>List of Apartment Details</h2>
+			<h4> </h4>
+			<h2>List of Registered Rooms Details</h2>
 				<?php 
 					foreach ($data as $key => $value) {						
 						echo '<div class="card card-inverse card-info mb-3" style="padding:1%;">					
