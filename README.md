@@ -32,6 +32,7 @@
 
 ## List of Registered Rooms
 ![image](https://user-images.githubusercontent.com/98692616/178806508-864fbe54-e14d-410b-a34f-cbc82cc11daf.png)
+![image](https://user-images.githubusercontent.com/98692616/178808280-a7815a6d-2735-4f29-9f7f-324884096c25.png)
 
 ## Edit/Update Registered Room Information
 ![image](https://user-images.githubusercontent.com/98692616/178806909-89b77d45-8452-42ce-adef-0afc0db6a23f.png)
