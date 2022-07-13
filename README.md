@@ -1,4 +1,4 @@
-# HomeToGo Webapp
+# HomeToGo-Webapp
 
 ###### This Web application helps user to register home's or room's to assist you in finding the perfect rental home or room. Also you can find your next rental from search view in your targeted area.
 
