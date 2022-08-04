@@ -1,6 +1,6 @@
 # HomeToGo-Webapp
 
-###### This Web application helps user to register home to assist you in finding the perfect rental home. Also you can find your next rental from search view in your targeted area.
+###### This Web application helps user to register home to assist you in finding the perfect rental home. Also you can find your next rental from search view in your targeted area.Also owners can get tenant's easily.
 
 ## Built with Core PHP, PHP PDO, Bootstrap4, MYSQL.
 
